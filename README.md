@@ -1,0 +1,1 @@
+Realizando essas listas de exercicios para aprender/aprimorar/praticar python
